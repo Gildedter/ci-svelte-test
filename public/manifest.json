@@ -1,0 +1,31 @@
+{
+  "resources/assets/logos/ci-svelte.webp": {
+    "file": "build/ci-svelte.0b2e53d9.webp",
+    "src": "resources/assets/logos/ci-svelte.webp"
+  },
+  "resources/assets/logos/svelte.webp": {
+    "file": "build/svelte.3c2c7d67.webp",
+    "src": "resources/assets/logos/svelte.webp"
+  },
+  "resources/assets/logos/ci.png": {
+    "file": "build/ci.d69d46c7.png",
+    "src": "resources/assets/logos/ci.png"
+  },
+  "resources/main.js": {
+    "file": "build/main.285f09bb.js",
+    "src": "resources/main.js",
+    "isEntry": true,
+    "css": [
+      "build/main.c24f5a43.css"
+    ],
+    "assets": [
+      "build/svelte.3c2c7d67.webp",
+      "build/ci.d69d46c7.png",
+      "build/ci-svelte.0b2e53d9.webp"
+    ]
+  },
+  "resources/main.css": {
+    "file": "build/main.c24f5a43.css",
+    "src": "resources/main.css"
+  }
+}
